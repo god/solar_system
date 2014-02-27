@@ -1,3 +1,5 @@
 solar_system
 ============
-lights now go on and off. also, temperature goes up and down.
+Lights now go on and off. Also, temperature goes up and down.
+
+Added planets.
